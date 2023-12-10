@@ -1,0 +1,15 @@
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_02_ServerClient_Thread\HW02_Server\bin\Debug\net8.0\HW02_Server.exe
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_02_ServerClient_Thread\HW02_Server\bin\Debug\net8.0\HW02_Server.deps.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_02_ServerClient_Thread\HW02_Server\bin\Debug\net8.0\HW02_Server.runtimeconfig.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_02_ServerClient_Thread\HW02_Server\bin\Debug\net8.0\HW02_Server.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_02_ServerClient_Thread\HW02_Server\bin\Debug\net8.0\HW02_Server.pdb
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_02_ServerClient_Thread\HW02_Server\obj\Debug\net8.0\HW02_Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_02_ServerClient_Thread\HW02_Server\obj\Debug\net8.0\HW02_Server.AssemblyInfoInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_02_ServerClient_Thread\HW02_Server\obj\Debug\net8.0\HW02_Server.AssemblyInfo.cs
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_02_ServerClient_Thread\HW02_Server\obj\Debug\net8.0\HW02_Server.csproj.CoreCompileInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_02_ServerClient_Thread\HW02_Server\obj\Debug\net8.0\HW02_Server.sourcelink.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_02_ServerClient_Thread\HW02_Server\obj\Debug\net8.0\HW02_Server.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_02_ServerClient_Thread\HW02_Server\obj\Debug\net8.0\refint\HW02_Server.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_02_ServerClient_Thread\HW02_Server\obj\Debug\net8.0\HW02_Server.pdb
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_02_ServerClient_Thread\HW02_Server\obj\Debug\net8.0\HW02_Server.genruntimeconfig.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_02_ServerClient_Thread\HW02_Server\obj\Debug\net8.0\ref\HW02_Server.dll

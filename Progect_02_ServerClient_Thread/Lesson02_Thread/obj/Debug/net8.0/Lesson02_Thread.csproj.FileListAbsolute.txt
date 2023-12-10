@@ -1,0 +1,5 @@
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_02_ServerClient_Thread\Lesson02_Thread\obj\Debug\net8.0\Lesson02_Thread.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_02_ServerClient_Thread\Lesson02_Thread\obj\Debug\net8.0\Lesson02_Thread.AssemblyInfoInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_02_ServerClient_Thread\Lesson02_Thread\obj\Debug\net8.0\Lesson02_Thread.AssemblyInfo.cs
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_02_ServerClient_Thread\Lesson02_Thread\obj\Debug\net8.0\Lesson02_Thread.csproj.CoreCompileInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_02_ServerClient_Thread\Lesson02_Thread\obj\Debug\net8.0\Lesson02_Thread.sourcelink.json

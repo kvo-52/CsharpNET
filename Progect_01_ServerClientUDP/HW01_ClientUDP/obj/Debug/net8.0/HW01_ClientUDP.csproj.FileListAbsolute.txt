@@ -1,0 +1,14 @@
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\HW01_ClientUDP\bin\Debug\net8.0\HW01_ClientUDP.exe
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\HW01_ClientUDP\bin\Debug\net8.0\HW01_ClientUDP.deps.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\HW01_ClientUDP\bin\Debug\net8.0\HW01_ClientUDP.runtimeconfig.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\HW01_ClientUDP\bin\Debug\net8.0\HW01_ClientUDP.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\HW01_ClientUDP\bin\Debug\net8.0\HW01_ClientUDP.pdb
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\HW01_ClientUDP\obj\Debug\net8.0\HW01_ClientUDP.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\HW01_ClientUDP\obj\Debug\net8.0\HW01_ClientUDP.AssemblyInfoInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\HW01_ClientUDP\obj\Debug\net8.0\HW01_ClientUDP.AssemblyInfo.cs
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\HW01_ClientUDP\obj\Debug\net8.0\HW01_ClientUDP.csproj.CoreCompileInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\HW01_ClientUDP\obj\Debug\net8.0\HW01_ClientUDP.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\HW01_ClientUDP\obj\Debug\net8.0\refint\HW01_ClientUDP.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\HW01_ClientUDP\obj\Debug\net8.0\HW01_ClientUDP.pdb
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\HW01_ClientUDP\obj\Debug\net8.0\HW01_ClientUDP.genruntimeconfig.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\HW01_ClientUDP\obj\Debug\net8.0\ref\HW01_ClientUDP.dll

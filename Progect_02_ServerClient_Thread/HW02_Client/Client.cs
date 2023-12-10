@@ -21,11 +21,11 @@ namespace HW02_Client
             while (run)
             {
                 Console.Write("Если Вы хотите отправить сообщение -" +
-                    " введите go. Если хотите выйти - введите exit: ");
+                    " введите Yes. Если хотите выйти - введите exit: ");
                 string command = Console.ReadLine().ToLower();
                 switch (command)
                 {
-                    case "go":
+                    case "Yes":
                         Console.Write("Введите сообщение: ");
                         string messageText = Console.ReadLine().ToLower();
 

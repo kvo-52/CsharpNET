@@ -1,0 +1,15 @@
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_03_PLINQandAsync\ServerLesson3\obj\Debug\net8.0\ServerLesson3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_03_PLINQandAsync\ServerLesson3\obj\Debug\net8.0\ServerLesson3.AssemblyInfoInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_03_PLINQandAsync\ServerLesson3\obj\Debug\net8.0\ServerLesson3.AssemblyInfo.cs
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_03_PLINQandAsync\ServerLesson3\obj\Debug\net8.0\ServerLesson3.csproj.CoreCompileInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_03_PLINQandAsync\ServerLesson3\obj\Debug\net8.0\ServerLesson3.sourcelink.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_03_PLINQandAsync\ServerLesson3\bin\Debug\net8.0\ServerLesson3.exe
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_03_PLINQandAsync\ServerLesson3\bin\Debug\net8.0\ServerLesson3.deps.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_03_PLINQandAsync\ServerLesson3\bin\Debug\net8.0\ServerLesson3.runtimeconfig.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_03_PLINQandAsync\ServerLesson3\bin\Debug\net8.0\ServerLesson3.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_03_PLINQandAsync\ServerLesson3\bin\Debug\net8.0\ServerLesson3.pdb
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_03_PLINQandAsync\ServerLesson3\obj\Debug\net8.0\ServerLesson3.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_03_PLINQandAsync\ServerLesson3\obj\Debug\net8.0\refint\ServerLesson3.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_03_PLINQandAsync\ServerLesson3\obj\Debug\net8.0\ServerLesson3.pdb
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_03_PLINQandAsync\ServerLesson3\obj\Debug\net8.0\ServerLesson3.genruntimeconfig.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Progect_03_PLINQandAsync\ServerLesson3\obj\Debug\net8.0\ref\ServerLesson3.dll

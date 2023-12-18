@@ -1,0 +1,15 @@
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Builder\bin\Debug\net8.0\Builder.exe
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Builder\bin\Debug\net8.0\Builder.deps.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Builder\bin\Debug\net8.0\Builder.runtimeconfig.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Builder\bin\Debug\net8.0\Builder.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Builder\bin\Debug\net8.0\Builder.pdb
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Builder\obj\Debug\net8.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Builder\obj\Debug\net8.0\Builder.AssemblyInfoInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Builder\obj\Debug\net8.0\Builder.AssemblyInfo.cs
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Builder\obj\Debug\net8.0\Builder.csproj.CoreCompileInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Builder\obj\Debug\net8.0\Builder.sourcelink.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Builder\obj\Debug\net8.0\Builder.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Builder\obj\Debug\net8.0\refint\Builder.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Builder\obj\Debug\net8.0\Builder.pdb
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Builder\obj\Debug\net8.0\Builder.genruntimeconfig.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Builder\obj\Debug\net8.0\ref\Builder.dll

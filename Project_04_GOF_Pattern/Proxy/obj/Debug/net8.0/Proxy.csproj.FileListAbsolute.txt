@@ -1,0 +1,15 @@
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Proxy\bin\Debug\net8.0\Proxy.exe
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Proxy\bin\Debug\net8.0\Proxy.deps.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Proxy\bin\Debug\net8.0\Proxy.runtimeconfig.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Proxy\bin\Debug\net8.0\Proxy.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Proxy\bin\Debug\net8.0\Proxy.pdb
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Proxy\obj\Debug\net8.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Proxy\obj\Debug\net8.0\Proxy.AssemblyInfoInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Proxy\obj\Debug\net8.0\Proxy.AssemblyInfo.cs
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Proxy\obj\Debug\net8.0\Proxy.csproj.CoreCompileInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Proxy\obj\Debug\net8.0\Proxy.sourcelink.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Proxy\obj\Debug\net8.0\Proxy.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Proxy\obj\Debug\net8.0\refint\Proxy.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Proxy\obj\Debug\net8.0\Proxy.pdb
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Proxy\obj\Debug\net8.0\Proxy.genruntimeconfig.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\Proxy\obj\Debug\net8.0\ref\Proxy.dll

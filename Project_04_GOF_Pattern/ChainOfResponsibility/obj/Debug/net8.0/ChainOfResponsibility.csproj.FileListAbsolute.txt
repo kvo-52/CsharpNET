@@ -1,0 +1,15 @@
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\ChainOfResponsibility\bin\Debug\net8.0\ChainOfResponsibility.exe
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\ChainOfResponsibility\bin\Debug\net8.0\ChainOfResponsibility.deps.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\ChainOfResponsibility\bin\Debug\net8.0\ChainOfResponsibility.runtimeconfig.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\ChainOfResponsibility\bin\Debug\net8.0\ChainOfResponsibility.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\ChainOfResponsibility\bin\Debug\net8.0\ChainOfResponsibility.pdb
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.AssemblyInfoInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.AssemblyInfo.cs
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.sourcelink.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\ChainOfResponsibility\obj\Debug\net8.0\refint\ChainOfResponsibility.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.pdb
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.genruntimeconfig.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_GOF_Pattern\ChainOfResponsibility\obj\Debug\net8.0\ref\ChainOfResponsibility.dll

@@ -1,0 +1,15 @@
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_HW_PatternServerClient\PatternsClient\obj\Debug\net8.0\PatternsClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_HW_PatternServerClient\PatternsClient\obj\Debug\net8.0\PatternsClient.AssemblyInfoInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_HW_PatternServerClient\PatternsClient\obj\Debug\net8.0\PatternsClient.AssemblyInfo.cs
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_HW_PatternServerClient\PatternsClient\obj\Debug\net8.0\PatternsClient.csproj.CoreCompileInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_HW_PatternServerClient\PatternsClient\obj\Debug\net8.0\PatternsClient.sourcelink.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_HW_PatternServerClient\PatternsClient\bin\Debug\net8.0\PatternsClient.exe
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_HW_PatternServerClient\PatternsClient\bin\Debug\net8.0\PatternsClient.deps.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_HW_PatternServerClient\PatternsClient\bin\Debug\net8.0\PatternsClient.runtimeconfig.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_HW_PatternServerClient\PatternsClient\bin\Debug\net8.0\PatternsClient.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_HW_PatternServerClient\PatternsClient\bin\Debug\net8.0\PatternsClient.pdb
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_HW_PatternServerClient\PatternsClient\obj\Debug\net8.0\PatternsClient.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_HW_PatternServerClient\PatternsClient\obj\Debug\net8.0\refint\PatternsClient.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_HW_PatternServerClient\PatternsClient\obj\Debug\net8.0\PatternsClient.pdb
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_HW_PatternServerClient\PatternsClient\obj\Debug\net8.0\PatternsClient.genruntimeconfig.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_04_HW_PatternServerClient\PatternsClient\obj\Debug\net8.0\ref\PatternsClient.dll

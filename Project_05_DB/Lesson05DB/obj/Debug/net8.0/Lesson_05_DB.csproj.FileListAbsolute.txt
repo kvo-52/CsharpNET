@@ -1,0 +1,6 @@
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_05_DB\Lesson_05_DB\obj\Debug\net8.0\Lesson_05_DB.csproj.AssemblyReference.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_05_DB\Lesson_05_DB\obj\Debug\net8.0\Lesson_05_DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_05_DB\Lesson_05_DB\obj\Debug\net8.0\Lesson_05_DB.AssemblyInfoInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_05_DB\Lesson_05_DB\obj\Debug\net8.0\Lesson_05_DB.AssemblyInfo.cs
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_05_DB\Lesson_05_DB\obj\Debug\net8.0\Lesson_05_DB.csproj.CoreCompileInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_05_DB\Lesson_05_DB\obj\Debug\net8.0\Lesson_05_DB.sourcelink.json

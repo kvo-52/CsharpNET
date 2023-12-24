@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
@@ -20,6 +21,7 @@ namespace Lesson05DB.Models
         public DateTime DateTime { get; set; }
         public string? NickNameFrom { get; set; }
         public string? NickNameTo { get; set; }
+        public IPEndPoint? EndPoint { get; set; }
 
         public Command Command { get; set; }
 

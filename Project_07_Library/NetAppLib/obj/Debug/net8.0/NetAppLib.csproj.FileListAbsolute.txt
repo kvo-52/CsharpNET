@@ -1,0 +1,6 @@
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_07_Library\NetAppLib\obj\Debug\net8.0\NetAppLib.csproj.AssemblyReference.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_07_Library\NetAppLib\obj\Debug\net8.0\NetAppLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_07_Library\NetAppLib\obj\Debug\net8.0\NetAppLib.AssemblyInfoInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_07_Library\NetAppLib\obj\Debug\net8.0\NetAppLib.AssemblyInfo.cs
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_07_Library\NetAppLib\obj\Debug\net8.0\NetAppLib.csproj.CoreCompileInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_07_Library\NetAppLib\obj\Debug\net8.0\NetAppLib.sourcelink.json

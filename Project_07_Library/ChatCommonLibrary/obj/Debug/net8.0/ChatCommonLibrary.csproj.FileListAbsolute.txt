@@ -1,0 +1,12 @@
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_07_Library\ChatCommonLibrary\bin\Debug\net8.0\ChatCommonLibrary.deps.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_07_Library\ChatCommonLibrary\bin\Debug\net8.0\ChatCommonLibrary.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_07_Library\ChatCommonLibrary\bin\Debug\net8.0\ChatCommonLibrary.pdb
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_07_Library\ChatCommonLibrary\obj\Debug\net8.0\ChatCommonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_07_Library\ChatCommonLibrary\obj\Debug\net8.0\ChatCommonLibrary.AssemblyInfoInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_07_Library\ChatCommonLibrary\obj\Debug\net8.0\ChatCommonLibrary.AssemblyInfo.cs
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_07_Library\ChatCommonLibrary\obj\Debug\net8.0\ChatCommonLibrary.csproj.CoreCompileInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_07_Library\ChatCommonLibrary\obj\Debug\net8.0\ChatCommonLibrary.sourcelink.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_07_Library\ChatCommonLibrary\obj\Debug\net8.0\ChatCommonLibrary.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_07_Library\ChatCommonLibrary\obj\Debug\net8.0\refint\ChatCommonLibrary.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_07_Library\ChatCommonLibrary\obj\Debug\net8.0\ChatCommonLibrary.pdb
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\3.Csharp_NET_Application\HW_CsharpNET\Project_07_Library\ChatCommonLibrary\obj\Debug\net8.0\ref\ChatCommonLibrary.dll

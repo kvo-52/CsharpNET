@@ -20,7 +20,7 @@ namespace Lesson05DB.Models
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=localhost; Database=students-db1;Integrated Security=False;TrustServerCertificate=True; Trusted_Connection=True;")
+            optionsBuilder.UseSqlServer(@"Server=.; Database=students-db1;Integrated Security=False;TrustServerCertificate=True; Trusted_Connection=True;")
                 .UseLazyLoadingProxies();
         }
 
